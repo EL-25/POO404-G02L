@@ -1,3 +1,5 @@
+//Guia 2
+
 import javax.swing.JOptionPane;
 public class PruebaEmpleado {
     public static void main(String[] args)
